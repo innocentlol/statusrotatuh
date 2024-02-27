@@ -1,10 +1,5 @@
 [
-  { "type": "PLAYING",   "name": "with {users} users" },
-  { "type": "LISTENING", "name": "{users} users" },
-  { "type": "WATCHING",  "name": "over {users} users" },
-  { "type": "PLAYING",   "name": "in {guilds} servers" },
-  { "type": "PLAYING",   "name": "{prefix}help for help" },
-  { "type": "WATCHING",  "name": "{guilds} servers" },
-  { "type": "PLAYING",   "name": "with you." },
-  { "type": "PLAYING",   "name": "Version {version}" }
+  { "type": "PLAYING",   "name": "with death" },
+  { "type": "LISTENING", "name": "to ur tears" },
+  { "type": "WATCHING",  "name": "you cry" },
 ]
